@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Khushi Marothi</h1>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khushimarothi&label=Profile%20views&color=0e75b6&style=flat" alt="khushimarothi" /> </p>
 
 - 🌱 I’m currently learning **Frameworks**
 
